@@ -1,10 +1,8 @@
-Veille Technologique - Perl
+# Veille Technologique - Perl
 
 ## Introduction - Pourquoi Perl ?
 
 Pour ma veille technologique, j'ai choisi de me concentrer sur Perl, un langage de programmation qui a marqué l’histoire du développement et de l’administration système. Perl est un langage puissant et flexible, souvent utilisé pour le traitement de texte, l'automatisation des tâches administratives et le développement web. Son slogan, "There’s more than one way to do it", reflète bien la diversité et la richesse des solutions qu’il offre.
-
-Personnellement, je m’intéresse à Perl car il est encore largement utilisé dans l'administration système, le traitement de données et les scripts d'automatisation. De plus, sa communauté active continue de le faire évoluer, notamment avec Perl 5 et les avancées de Perl 7. C’est un langage qui, bien que parfois éclipsé par Python ou Ruby, reste pertinent dans de nombreux domaines.
 
 ## Outils de Veille Technologique
 
@@ -41,10 +39,9 @@ Comptes suivis :
 
 Justification : YouTube est une excellente source de tutoriels vidéo pour apprendre Perl. Certaines chaînes proposent des contenus couvrant les bases du langage jusqu’aux concepts avancés.
 
-Chaînes à suivre :
+Chaîne à suivre :
 
-- The Pragmatic Programmer - Perl Tutorials
-- Gabor Szabo - Perl Maven
+- Dr Perl
 
 ### 5. Communautés - Forums et Slack
 
@@ -68,17 +65,18 @@ Justification : Les conférences permettent d’être au courant des avancées m
 
 ## Tableau Récapitulatif des Sources
 
-| Outil               | Lien                                             | Justification                                                |
-| ------------------- | ------------------------------------------------ | ------------------------------------------------------------ |
-| Feedly              | [Feedly](https://feedly.com/)                    | Suivi des blogs, documentations et actualités Perl.          |
-| Perl.com Blog       | [Perl](https://www.perl.com/)                    | Articles techniques et mises à jour sur Perl.                |
-| Perl Weekly         | [Perl Weekly](https://perlweekly.com/)           | Newsletter hebdomadaire avec des articles et tutoriels Perl. |
-| Google Alerts       | [Google Alerts](https://www.google.com/alerts)   | Notifications sur les sujets Perl spécifiques.               |
-| Twitter (X)         | [@Perl_News](https://x.com/Perl_News)            | Suivi des annonces officielles et discussions Perl.          |
-| YouTube             | [Dr Perl](https://www.youtube.com/@perlcode6780) | Tutoriels vidéo sur Perl, étape par étape.                   |
-| Reddit - Perl       | [r/perl](https://www.reddit.com/r/perl/)         | Communauté active pour échanges et support.                  |
-| The Perl Conference | [TPC](https://tprc.us/tprc-2025-gsp/)            | Conférences annuelles sur Perl et ses évolutions.            |
+| Outil               | Lien                                             | Justification                                                                     |
+| ------------------- | ------------------------------------------------ | --------------------------------------------------------------------------------- |
+| Feedly              | [Feedly](https://feedly.com/)                    | Suivi des blogs, documentations et actualités Perl.                               |
+| Perl.com Blog       | [Perl](https://www.perl.com/)                    | Articles techniques et mises à jour sur Perl.                                     |
+| Perl Weekly         | [Perl Weekly](https://perlweekly.com/)           | Newsletter hebdomadaire avec des articles et tutoriels Perl.                      |
+| Google Alerts       | [Google Alerts](https://www.google.com/alerts)   | Notifications sur les sujets Perl spécifiques.                                    |
+| Twitter (X)         | [@Perl_News](https://x.com/Perl_News)            | Suivi des annonces officielles et discussions Perl.                               |
+| YouTube             | [Dr Perl](https://www.youtube.com/@perlcode6780) | Tutoriels vidéo sur Perl, étape par étape.                                        |
+| Github - perl       | [github.com/Perl](https://github.com/Perl/perl5) | Dépôt officiel du code source de Perl, contributions et suivi des développements. |
+| Reddit - Perl       | [r/perl](https://www.reddit.com/r/perl/)         | Communauté active pour échanges et support.                                       |
+| The Perl Conference | [TPC](https://tprc.us/tprc-2025-gsp/)            | Conférences annuelles sur Perl et ses évolutions.                                 |
 
 ## Conclusion
 
-Cette veille technologique sur Perl me permet de suivre l'évolution du langage tout en ayant accès à une variété de ressources pour approfondir mes connaissances. Grâce à ces outils et sources, je peux rester informé des dernières tendances, découvrir des bonnes pratiques et interagir avec d’autres passionnés de Perl dans la communauté. Je suis impatient de continuer à explorer Perl et de l'utiliser dans mes projets personnels et professionnels !
+Cette veille technologique sur Perl me permet de suivre l'évolution du langage tout en ayant accès à une variété de ressources pour approfondir mes connaissances. Grâce à ces outils et sources, je peux rester informé des dernières tendances, découvrir des bonnes pratiques et interagir avec d’autres passionnés de Perl dans la communauté.
